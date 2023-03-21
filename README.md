@@ -36,3 +36,7 @@ OFHEO(Office of Federal Housing Enterprise Oversight) started testing firms' abi
 ### Beta
 * The CAPM (Capital asset pricing model) implies that the expected return on the ith asset is determined from its beta.
 * Beta($\beta$) is the regression slope coefficient when the return on the ith asset is regressed on the return on the market.
+
+### Market Risk versus Idiosyncratic Risk
+* By construction, the residuals or error terms in a regression are uncorrelated with the fitted or predicted value.
+* The variance of the return of a stock is equal to its beta squared times the variance of the market return (systematic risk) plus the variance of the residual in the regression (idosyncratic risk).
