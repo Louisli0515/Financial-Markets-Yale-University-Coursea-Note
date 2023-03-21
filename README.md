@@ -43,3 +43,6 @@ OFHEO(Office of Federal Housing Enterprise Oversight) started testing firms' abi
 
 ### Distribution and outliers
 
+![WeChat Image_20230321114731](https://user-images.githubusercontent.com/128298224/226597202-37155cc3-35a9-481a-8852-57d4421c6eeb.jpg)
+
+This is the normal distribution with standard deviation of 1 and 3, but this is not common in finance.
