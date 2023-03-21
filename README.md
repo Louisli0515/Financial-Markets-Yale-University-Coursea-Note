@@ -46,3 +46,12 @@ OFHEO(Office of Federal Housing Enterprise Oversight) started testing firms' abi
 ![WeChat Image_20230321114731](https://user-images.githubusercontent.com/128298224/226597202-37155cc3-35a9-481a-8852-57d4421c6eeb.jpg)
 
 This is the normal distribution with standard deviation of 1 and 3, but this is not common in finance.
+
+![WeChat Image_20230321115112](https://user-images.githubusercontent.com/128298224/226597995-20c9ee30-11cb-426c-8c43-6cabdfacc9b5.jpg)
+
+This is the comparison between Cauchy distribution and Normal distribution.
+
+### Central Limit Theorem
+
+* Averages of a large number of independent identically distributed shocks are approximately normally distributed.
+* Can fail if the underlying shocks are fat tailed or if the underlying shocks lose their independence.
