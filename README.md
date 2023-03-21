@@ -31,3 +31,8 @@ OFHEO(Office of Federal Housing Enterprise Oversight) started testing firms' abi
 * Hang in the investment.
 
 * **Standard deviation** of Apple capital gain in decade shown is 12.8% a month, while **standard deviation** of S&P 500 return in decade shown is 4.7%.
+* Apple is more variable than S&P 500. Apple overeact to what happens in the aggregate stock market.
+
+### Beta
+* The CAPM (Capital asset pricing model) implies that the expected return on the ith asset is determined from its beta.
+* Beta($\beta$) is the regression slope coefficient when the return on the ith asset is regressed on the return on the market.
