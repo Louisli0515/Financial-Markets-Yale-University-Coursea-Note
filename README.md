@@ -40,3 +40,6 @@ OFHEO(Office of Federal Housing Enterprise Oversight) started testing firms' abi
 ### Market Risk versus Idiosyncratic Risk
 * By construction, the residuals or error terms in a regression are uncorrelated with the fitted or predicted value.
 * The variance of the return of a stock is equal to its beta squared times the variance of the market return (systematic risk) plus the variance of the residual in the regression (idosyncratic risk).
+
+### Distribution and outliers
+
