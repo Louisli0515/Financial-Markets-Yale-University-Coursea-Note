@@ -55,3 +55,14 @@ This is the comparison between Cauchy distribution and Normal distribution.
 
 * Averages of a large number of independent identically distributed shocks are approximately normally distributed.
 * Can fail if the underlying shocks are fat tailed or if the underlying shocks lose their independence.
+
+![Comparison-of-standard-normal-distribution-and-standard-Cauchy-distribution](https://user-images.githubusercontent.com/128298224/226598562-5799fa6c-97c7-43c2-82a6-4ed4f9bf8412.png)
+
+Cauchy distribution is actually a fat tail distribution, and it looks quite similar to Normal distribution.
+
+### Covariance
+
+* Risk is determined by **covariance**. 
+* We need stocks that are independent, so lower the covariance.
+* $\beta_{i} = \frac{\text{Cov}(r,r_{\text{market}})}{\text{Var}(v_{\text{market}})}$.
+* Market demands higher returns from higher beta stock.
