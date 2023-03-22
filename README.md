@@ -66,3 +66,38 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 * We need stocks that are independent, so lower the covariance.
 * $\beta_{i} = \frac{\text{Cov}(r,r_{\text{market}})}{\text{Var}(v_{\text{market}})}$.
 * Market demands higher returns from higher beta stock.
+
+### Insurance
+
+#### Fundamental Insurance Principles and Issues
+* **Risk Pooling** is the source of all value in insurance
+* **Moral Hazard** dealt with partially by deductions and co-insurance.
+* **Selection Bias** dealth with by group policies, by testing and referrals and by mandatory government insurance.
+
+#### Risk Pooling
+* If n policies, each has independent probability p of a claim, then the number of claims follows the binomial distribution. The standard deviation of the fraction of policies that result in a claim is $$\sqrt{\frac{p(1-p)}{n}}.$$
+* Law of large numbers: as $n$ gets large,  standard deviation approaches 0.
+
+#### Connecticut Life and Health Insurance Guaranty Association
+* Founded 1972 by Connecticut legislature.
+* Maximum death benefit $500,000 and maximum cahs value insurance $500,000.
+* You can't increase coverage by buying multiple policies.
+* It's not big enough, if you were buying life insurance for your family, $1 million minimum.
+
+#### China Insurance Protection Fund
+* Policyholder's losses that are no more than 50,000 yuan (US$7500) will be fully covered by the fund
+* For losses in excess of that number, the fund covers 90% of the extra for individual policyholders and 80% for corporate policyholders.
+
+#### The Health Maintenance Organisation Act of 1973
+* Required employers with 25 or more employees to offer federally certified HMO options.
+* Designed to overcome moral hazard problem, doctors earning fees for procedures make more money if people are sick.
+
+#### U.S. Emergency Medical Treatment and Active Labor Act (EMTALA) 1986
+* Requries hospitals and ambulance services to provide care to anyone needing emergency treatment
+* An "unfunded mandate".
+
+#### U.S. Patient Protection and Affordable Care Act 2010 (Obamacare)
+* Penalty for individuals not buying insurance.
+* Penalty for companies not buying insurance for their employees.
+* Insurance companies may not disallow for preexisting conditions, or drop people who get sick.
+
