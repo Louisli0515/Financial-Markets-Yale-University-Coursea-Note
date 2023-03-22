@@ -70,7 +70,7 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 ### Insurance
 
 #### Fundamental Insurance Principles and Issues
-* **Risk Pooling** is the source of all value in insurance
+* **Risk Pooling** is the source of all value in insurance.
 * **Moral Hazard** dealt with partially by deductions and co-insurance.
 * **Selection Bias** dealth with by group policies, by testing and referrals and by mandatory government insurance.
 
