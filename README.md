@@ -101,3 +101,9 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 * Penalty for companies not buying insurance for their employees.
 * Insurance companies may not disallow for preexisting conditions, or drop people who get sick.
 
+#### TRIA, 2002
+* Before 11/09/2001, insurers generally did not exclude terrorism risk, which they then saw as inconsequential.
+* After 2001, insurers wanted these exclusions.
+* US Terrorism Risk Insurance Act of 2002 (TRIA) required to insurers to offer terrorism insurance for three years.
+* Government agreed to pay 90% of insurance industry losses above a deductible of $100 billion.
+* December 2005, TRIA renewed for two more years, and in 2007 for 7 more years. In 2015, the act was renewed again to 2020.
