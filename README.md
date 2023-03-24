@@ -107,3 +107,15 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 * US Terrorism Risk Insurance Act of 2002 (TRIA) required to insurers to offer terrorism insurance for three years.
 * Government agreed to pay 90% of insurance industry losses above a deductible of $100 billion.
 * December 2005, TRIA renewed for two more years, and in 2007 for 7 more years. In 2015, the act was renewed again to 2020.
+
+### Eggs in One Basket
+
+#### An Alternative to Insurance: Portfolio Management
+* Diversification of ownership
+* If people are all calculating with the same data, all wanting to hold portolios on the frontier, then they all want to hold the same portfolio.
+* So that **HAS TO BE THE MARKET PORTFOLIO**.
+
+#### Portfolio Diversification
+* All that should matter to an investor is the performance of the entire portfolio.
+* **Mean** and **Variance** of portfolio matter.
+* **Law of large numbers** means that spreading over many independent assets reduces risk, has no effect on expected return.
