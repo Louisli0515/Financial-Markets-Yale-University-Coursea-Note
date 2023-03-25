@@ -177,3 +177,4 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 ### Gordon Growth Model
 
 * Myron Gordon says $$PV = \frac{x}{r-g} = \frac{x}{1+r}+\frac{x(1+g)}{(1+r)^{2}}+....,$$ where $r$ is the rate of discount, $g$ is the growth rate and $x$ is the revenue production in the first year.
+* For example in 2000, the best thing to invest was railroads not dot-com stocks because they failed to use the formula.
