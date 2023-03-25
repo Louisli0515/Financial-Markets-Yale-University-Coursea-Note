@@ -119,3 +119,26 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 * All that should matter to an investor is the performance of the entire portfolio.
 * **Mean** and **Variance** of portfolio matter.
 * **Law of large numbers** means that spreading over many independent assets reduces risk, has no effect on expected return.
+
+### CAPM
+
+#### Capital Asset Pricing Model (CAPM)
+* CAPM asserts that all investors hold their optimal portfolio.
+* Consequence of the mutual fund theorem: All investors hold the same portfolio of risky assets, the tangency portfolio.
+* Therefore the CAPM says that the tangency portfolio equals the market portfolio.
+
+#### Investment Companies as Providers of Diversification
+* Investment trusts (before 1940s)
+* Mutual funds
+* Closed end investment companies
+* Unit investment trusts
+
+#### Equity Premium Puzzle
+* US Geometric average real stock market return 1802-2012 : 6.6%.
+* US Geometric average real short-term government return 1802-2012: 2.7%.
+* Equity premium = 6.6% - 2.7% = 3.9%.
+
+#### International Evidence
+* Medial real stock market appreciation rate for 39 countries 1926-1996: 0.8% per year.
+* Real stock market appreciation rate for US 1926-1996: 4.3% per year.
+* US equity premium may reflect a selection bias.
