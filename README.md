@@ -170,6 +170,6 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 * Portfolio Variance is $$x_{1}^{2}\text{Var}(\text{return1})+(1-x_{1})^{2}\text{Var}(\text{return2})+2x_{1}(1-x_{1})\text{Cov}(\text{return1},\text{return2}).$$
 
 ### Efficient Portfolio Frontier
-<img width="956" alt="frontier" src="https://user-images.githubusercontent.com/128298224/227741098-67be4c4b-3914-4908-aa50-a87ee2097cd6.png">
+<img width=75% height=75% alt="frontier" src="https://user-images.githubusercontent.com/128298224/227741098-67be4c4b-3914-4908-aa50-a87ee2097cd6.png" >
 
-
+<img width=75% height=75% alt="oil" src="https://user-images.githubusercontent.com/128298224/227741344-89684553-8469-425f-8b83-9cd5fb622a67.png" >
