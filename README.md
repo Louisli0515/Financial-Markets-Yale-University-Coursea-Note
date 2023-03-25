@@ -173,3 +173,7 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 <img width=75% height=75% alt="frontier" src="https://user-images.githubusercontent.com/128298224/227741098-67be4c4b-3914-4908-aa50-a87ee2097cd6.png" >
 
 <img width=75% height=75% alt="oil" src="https://user-images.githubusercontent.com/128298224/227741344-89684553-8469-425f-8b83-9cd5fb622a67.png" >
+
+### Gordon Growth Model
+
+* Myron Gordon says $$PV = \frac{x}{r-g} = \frac{x}{1+r}+\frac{x(1+g)}{(1+r)^{2}}+....,$$ where $r$ is the rate of discount, $g$ is the growth rate and $x$ is the revenue production in the first year.
