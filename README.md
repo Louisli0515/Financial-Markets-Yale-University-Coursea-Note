@@ -158,4 +158,7 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 
 #### A Portfolio of a Risky and Riskless Asset
 * Invest $x$ dollars into the risky asset and $1-x$ dollars into the riskless asset.
-* The Risky asset returns $r_{1}$ while $Riskless asset returns $r_{f}$.
+* The Risky asset returns $r_{1}$ while Riskless asset returns $r_{f}$.
+<img width="823" alt="port" src="https://user-images.githubusercontent.com/128298224/227740406-2d761495-ae10-4a33-a4c0-37f716a8b726.png">
+* Expected value of the portfolio is $r = x$.
+
