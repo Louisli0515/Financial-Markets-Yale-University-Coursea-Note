@@ -22,9 +22,8 @@ Finance is a Technology, for Good or Evil.
 
 ### Stress Tests
 
-Originally the term referred to a medical procedure to test for cardiovascular fitness.
-
-OFHEO(Office of Federal Housing Enterprise Oversight) started testing firms' ability to withstand economic crisis before the 2008 crisis.
+* Originally the term referred to a medical procedure to test for cardiovascular fitness.
+* OFHEO(Office of Federal Housing Enterprise Oversight) started testing firms' ability to withstand economic crisis before the 2008 crisis.
 
 ### S&P 500
 
