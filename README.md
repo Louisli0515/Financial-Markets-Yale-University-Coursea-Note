@@ -142,3 +142,14 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 * Medial real stock market appreciation rate for 39 countries 1926-1996: 0.8% per year.
 * Real stock market appreciation rate for US 1926-1996: 4.3% per year.
 * US equity premium may reflect a selection bias.
+
+### Beta
+* Apple has beta at about $1.5 > 1$, showing its strength in the market.
+* Gold ahs a negative $\beta$. So when market is doing good, gold might not have a good return, but when market is during a recession, gold might have a good return.
+
+### CAPM and Diversification
+
+* $r_{i} = r_{f}+\beta_{i}(r_{\text{market}} - r_{f})$
+
+### Short sales
+* Brokers can enable you to hold a negative quantity of a tradable asset: they borrow the security and sell it, escrow the proceeds, you receive the proceeds, owe the security.
