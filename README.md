@@ -153,3 +153,9 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 
 ### Short sales
 * Brokers can enable you to hold a negative quantity of a tradable asset: they borrow the security and sell it, escrow the proceeds, you receive the proceeds, owe the security.
+
+### Calculating the Optimal Portfolio
+
+#### A Portfolio of a Risky and Riskless Asset
+* Invest $x$ dollars into the risky asset and $1-x$ dollars into the riskless asset.
+* The Risky asset returns $r_{1}$ while $Riskless asset returns $r_{f}$.
