@@ -160,5 +160,13 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 * Invest $x$ dollars into the risky asset and $1-x$ dollars into the riskless asset.
 * The Risky asset returns $r_{1}$ while Riskless asset returns $r_{f}$.
 <img width="823" alt="port" src="https://user-images.githubusercontent.com/128298224/227740406-2d761495-ae10-4a33-a4c0-37f716a8b726.png">
-* Expected value of the portfolio is $r = x$.
 
+* Expected value of the portfolio is $$r = xr_{1}+(1-x)r_{f}.$$
+* Portfolio Variance is $$x^{2}\text{Var}(\text{return1}).$$
+* Portfolio Standard Deviation is $$\sigma = \left|\frac{r-r_{f}}{r_{1}-r_{f}}\right|\sigma(\text{return1}).$$
+
+#### A Portfolio of 2 Risky Assets
+* Portfolio Expected Value is $$r = x_{1}r_{1}+(1-x_{1})r_{2}.$$
+* Portfolio Variance is $$x_{1}^{2}\text{Var}(\text{return1})+(1-x_{1})^{2}\text{Var}(\text{return2})+2x_{1}(1-x_{1})\text{Cov}(\text{return1},\text{return2}).$$
+
+### Efficient Portfolio Frontier
