@@ -177,3 +177,29 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 
 * Myron Gordon says $$PV = \frac{x}{r-g} = \frac{x}{1+r}+\frac{x(1+g)}{(1+r)^{2}}+....,$$ where $r$ is the rate of discount, $g$ is the growth rate and $x$ is the revenue production in the first year.
 * For example in 2000, the best thing to invest was railroads not dot-com stocks because they failed to use the formula.
+
+## Module 2
+
+### Invention takes time
+
+* Financial Innovation is a pillar of our civilisation.
+
+### Limited Liability
+
+* Divide up an enterprise into shares, and no shareholder is liable for more than he or she put in.
+
+### Moss' Theory about Limited Liability
+
+* David Moss points out that limited liability was not a good idea: it created agency problems for stockholders, who might pursue risky strategies at bondholders' expense.
+* Lottery effect: with limited liability, an investment in a corporation was a throwaway item, like a lottery ticket.
+* Investor overestimation of miniscule probability of loss beyond initial investment discouraged investment.
+* Allowed for investors to hold a highly diversified portfolio.
+
+### Inflation Indexed Debt
+
+* Indexed debt first attempted in Massachusetts, 1780, to help finance Revolutionary War.
+
+### Real Estate Risk Managment Device
+
+* Value of homes is a major source of risk.
+* Short stock market to protect you.
