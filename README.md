@@ -216,3 +216,35 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 * First-order autoregressive (AR-I) Model: $$x_{t} = 100 + \rho(x_{t-1} - 100) + \varepsilon_{t}.$$ where $-1<\rho<1.$
 * Random walk as approximate implication of unpredictability of returns.
 * Similarity of both random walk and AR-I to actual stock prices.
+
+<img width="367" alt="comparison" src="https://user-images.githubusercontent.com/128298224/228534306-0c3a4ada-cfa7-417a-aade-8013fd53e221.png">
+
+* Here is the comparison between two models and we see that AR-I model has a tendency to come back to the starting point, while random walk not.
+
+### Intuition of Efficiency
+
+* Whatever stock market does is right. Trust the prices you see.
+* Weak form market efficiency: prices incorporate information about past prices.
+* Semi-strong form: incorporate all publicly available information.
+* Strong form: all information, including inside information.
+
+### Price as PDV
+
+#### Price as PDV of Expected Dividends
+
+* If earnings equal dividends and if dividends grow at long-run rate $g$, then by growing consol model $$P = \frac{E}{r-g},\quad \frac{P}{E} = \frac{I}{r-g}.$$ This is called the Gordon Model.
+* Efficient markets theory purports to explain why $P/E$ (**price earning ratios**) varies across stocks.
+* Low $P/E$ does not mean that the stock is a 'bargain', it only means that earnings are rationally forecasted to decrease in the future.
+* Efficient markets denies that any rule works.
+
+#### Reasons to Think Markets Ought to Be Efficient
+
+* Marginal investor determines prices.
+* Smart money dominates trading.
+* Survival of fittest.
+
+### Doubting Efficiency
+
+* The experience of living through a crash makes it obvious that human emotions play an important role. 
+* Their confidence diminshes as he talks to people or hears from the news.
+* Stock market prices go down in advance of recession (two reasons): Market causes the recession; Market is a fortune-teller.
