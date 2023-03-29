@@ -199,7 +199,20 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 
 * Indexed debt first attempted in Massachusetts, 1780, to help finance Revolutionary War.
 
-### Real Estate Risk Managment Device
+### Forecasting
+
+#### Real Estate Risk Managment Device
 
 * Value of homes is a major source of risk.
 * Short stock market to protect you.
+
+#### The Efficient Markets Hypothesis
+
+* Random Walk Hypothesis: every step is random according to Karl Pearson.
+
+#### Random Walk & AR-I Models
+
+* Random Walk: $$x_{t} = x_{t-1}+\varepsilon_{t}.$$
+* First-order autoregressive (AR-I) Model: $$x_{t} = 100 + \rho(x_{t-1} - 100) + \varepsilon_{t}.$$ where $-1<\rho<1.$
+* Random walk as approximate implication of unpredictability of returns.
+* Similarity of both random walk and AR-I to actual stock prices.
