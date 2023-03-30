@@ -265,3 +265,6 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 * Elements replace utility function and probabilities in expected utility theory which has dominated economic thought.
 
 #### Prospect Theory Value Function
+
+![valuefunction](https://user-images.githubusercontent.com/128298224/228864014-b7bc9ec2-e3d1-4508-a740-c64d59da31b1.jpg)
+
