@@ -243,8 +243,25 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 * Smart money dominates trading.
 * Survival of fittest.
 
-### Doubting Efficiency
+#### Doubting Efficiency
 
 * The experience of living through a crash makes it obvious that human emotions play an important role. 
 * Their confidence diminshes as he talks to people or hears from the news.
 * Stock market prices go down in advance of recession (two reasons): Market causes the recession; Market is a fortune-teller.
+
+### Introduction to Behavioral Finance
+
+#### History of Behavioral Finance
+
+* Adam Smith: people have desire for praise.
+* But don't enjoy being praised for something they didn't do.
+* As people mature, if they mature successfully, the desire for praise morphs into a desire for praiseworthiness.
+
+### Prospect Theory
+
+#### Prospect Theory
+
+* Two elements, value function(replace utility function) and weighting function(replace probability).
+* Elements replace utility function and probabilities in expected utility theory which has dominated economic thought.
+
+#### Prospect Theory Value Function
