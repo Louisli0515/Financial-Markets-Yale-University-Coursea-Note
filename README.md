@@ -42,11 +42,11 @@ Finance is a Technology, for Good or Evil.
 
 ### Distribution and outliers
 
-![WeChat Image_20230321114731](https://user-images.githubusercontent.com/128298224/226597202-37155cc3-35a9-481a-8852-57d4421c6eeb.jpg)
+<img width=75% height=75% src = https://user-images.githubusercontent.com/128298224/226597202-37155cc3-35a9-481a-8852-57d4421c6eeb.jpg>
 
 This is the normal distribution with standard deviation of 1 and 3, but this is not common in finance.
 
-![WeChat Image_20230321115112](https://user-images.githubusercontent.com/128298224/226597995-20c9ee30-11cb-426c-8c43-6cabdfacc9b5.jpg)
+<img width=50% height=50% src = https://user-images.githubusercontent.com/128298224/226597995-20c9ee30-11cb-426c-8c43-6cabdfacc9b5.jpg>
 
 This is the comparison between Cauchy distribution and Normal distribution.
 
@@ -55,7 +55,7 @@ This is the comparison between Cauchy distribution and Normal distribution.
 * Averages of a large number of independent identically distributed shocks are approximately normally distributed.
 * Can fail if the underlying shocks are fat tailed or if the underlying shocks lose their independence.
 
-![Comparison-of-standard-normal-distribution-and-standard-Cauchy-distribution](https://user-images.githubusercontent.com/128298224/226598562-5799fa6c-97c7-43c2-82a6-4ed4f9bf8412.png)
+<img width=50% height=50% src = https://user-images.githubusercontent.com/128298224/226598562-5799fa6c-97c7-43c2-82a6-4ed4f9bf8412.png>
 
 Cauchy distribution is actually a fat tail distribution, and it looks quite similar to Normal distribution.
 
