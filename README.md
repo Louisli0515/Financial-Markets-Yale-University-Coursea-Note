@@ -263,9 +263,87 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 
 * Two elements, value function(replace utility function) and weighting function(replace probability).
 * Elements replace utility function and probabilities in expected utility theory which has dominated economic thought.
+* People tend to gamble over the loss or they worry too much about small details instead of the big idea. (Because you are not an engineer who tries to consider every aspect of the invention you created)
 
 #### Prospect Theory Value Function
 
 ![valuefunction](https://user-images.githubusercontent.com/128298224/228864014-b7bc9ec2-e3d1-4508-a740-c64d59da31b1.jpg)
 
 #### Prospect Theory Weighting Function
+
+<img src=https://user-images.githubusercontent.com/128298224/228866343-f8a93d64-fd4a-4325-baf0-6af018dcb9fe.jpg width=50% height=50%>
+
+### Logical Fallacies
+
+#### Wishful Thinking Bias
+
+* People exaggerate probability that their team will win.
+* People exaggerate probability that the candidate they favor will win.
+
+#### Overconfidence in friends and leaders
+
+* Every central bank head is thought to be a genius, at least for a while.
+
+#### Cognitive Dissonance
+
+* Mental conflict that occurs when one learns one's beliefs are wrong, avoidance behavior.
+* Ads for recently purchased cars (Once you bought the car, you tend to read more about the ads of your purchased cars instead of other cars because you are tryting to make you feel better.)
+* If the stock price of your purchased stock goes down, you might feel you were wrong at first, but then just ignored it as you never bought.
+* Displosition effect
+
+#### Will Goetzmann and Nadav Peles Cognitive Dissonance and Mutual Fund Investors
+
+* Found that even badly performing mutual funds retain some investors.
+
+### Brain
+
+#### Mental Compartments
+
+* Shefrin & Statman: Investors have a 'safe' part of their portfolio that they will not risk, and a 'risky' part of their portfolio that they can have fun with.
+* Option salespeople use these tactics: buy a put option on a single stock.
+
+#### Attention Anomalies
+
+* Attention is fundamental aspect of human intelligence and its limits.
+* Social basis for attention.
+* Inability to account for one's attention.
+* "No arbitrage assumption" of financial theory: No ten-dollar bills lying around. Does not require everyone is paying attention.
+
+#### Anchoring
+
+* Examples: stock prices anchored to past values, or to other stock prices in same country. Do splits to keep at $30?
+
+#### Representativeness Heuristic
+
+* People judge by similarity to familiar types, without regard to base rate probabilities.
+* Tendency to see patterns in what is really random walk.
+* Stock price manipulators try to create patterns to fool investors. Short a stock and create a head & shoulders.
+
+#### Disjunction Effect
+
+* Inability to make a decision that is contingent on future information.
+* reaction of stock market to news, make stock strategies to trade on news.
+
+### Magical Thinking
+
+#### Magical thinking
+
+* Stock market responses to events may have similar origins.
+
+#### Quasi Magical Thinking 
+
+* Ellen Langer: People bet more on coin not yet tossed.
+
+### Pseronality Disorders
+
+#### Culture and Social Contagion
+
+* Suicide rates differ across countries for no more reason than different cultural themes.
+
+#### Antisocial Personality Disorder
+
+* Identity: egocentric, self-esteem from personal gain.
+* Self-direction: absence of prosocial internal standards.
+* Lack of empathy, incapacityfor intimacy.
+* Manipulative, deceitful, callous, hostile.
+* Irresponsible, impulsive, risk-taking
