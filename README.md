@@ -268,3 +268,4 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 
 ![valuefunction](https://user-images.githubusercontent.com/128298224/228864014-b7bc9ec2-e3d1-4508-a740-c64d59da31b1.jpg)
 
+#### Prospect Theory Weighting Function
