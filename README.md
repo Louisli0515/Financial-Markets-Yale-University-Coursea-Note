@@ -433,3 +433,22 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 
 * Deflation redistributes real wealth from debtors to creditors.
 * Creditors tend to be more cautious.
+
+### Market Capitalization by Country
+
+#### Market Capitalization
+* United States has the largest stock market.
+
+### The Corporation
+
+#### Board of Directors
+
+* In U.S., Board is commonly chaired by CEO, but CEO is hired by the Board.
+* In Germany, firms have two boards of directors. There is the Aufsichtsrat (Supervisory Board) and the Vorstand (Management Board).
+
+#### For-Profit vs. Non-Profit
+
+* For-profit corporation is owned by shareholders, equal claim after debts paid, subject to corporate profits tax.
+* Non-profit is not owned, self-perpetuating directors. Not subject to corporate profits tax.
+* For-profit exists to benefit shareholders, non-profit does not.
+* So for-profit has a price per share, non-profit does not.
