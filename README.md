@@ -453,7 +453,7 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 * For-profit exists to benefit shareholders, non-profit does not.
 * So for-profit has a price per share, non-profit does not.
 
-### Shars and Dividends
+### Shares and Dividends
 
 #### Meaning of Shares and Market Cap
 
@@ -462,3 +462,100 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 * If the company pays a dividend, the value of the share should go down by the amount of the dividend per share.
 * If the company does something to increase the value of the company without increasing the number of shares, my shares gain value.
 * It is all in the ratio, total value of company divided by total number of shares. If you affect numerator and denominator equally, then there is no effect on price per share.
+
+### Common vs. Preferred Stock
+
+* Common stock: dividend is at discretion of firm, subject to legal restrictions.
+* Preferred stock: Specified dividend does not have to be paid, but firm cannot pay dividend on common stock unless all past preferred stock dividends are paid.
+* Corporate bonds: Firm is contractually obligated to pay coupons and there is a maturity date when principal must be paid.
+* US bought preferred shares in corporations to bail them out.
+
+### Corporate Charter
+
+#### The Basic Corporate Charter Says All Common Shareholders Treated Equally
+
+* Charter does not say that the firm ever has to raise debt. Board decides.
+* Charter does not say that the firm ever has to pay dividends. Board decides
+* Charter does not say that the firm ever has to repurchase shares. Board decides.
+* Charter does not say that the firm ever has to issue warrants, convertible debt, anything else
+* But the shareholders elect the board.
+
+#### Berle and Means
+
+* Separation of ownership and control.
+* "Ownership is so widely scattered that working control can be maintained with but a minority interest."
+* The "quasi-public corporation" is constrained by law to serve other interests.
+
+#### Classes of Shares
+
+* Berkshire Hathaway. A Class have voting rights, B do not.
+* New York Times, Class A has less voting rights than Class B, which allows descendants of Adolph Ochs still to control.
+* Facebook: Mark Zuckerberg owns 28% of its shares but 57% of its voting shares.
+
+### Corporations Raise Money
+
+#### How do Corporations Raise Money?
+
+* This dilutes existing shareholders, since they now own a smaller fraction of the company, but offsetting that, it creates new earning power for the company.
+* Shareholders at a meeting could ideally vote on whether they think the prospective profits are worth the dilution, and prospective purchasers of the issue could ponder whether they feel the diluted shares are worth purchasing.
+
+#### Why do they call it Equity
+
+* Equity means equal share.
+
+### Dilution
+
+#### Dilution
+
+* If the company gives away new shares, my shares become worth less; that is dilution.
+* If the company sells new shares at market price, that generally does not lower the value of my shares because the company has the money.
+* If the company issues a stock dividend at $5\%$, then that lowers the value of my orginal shares by factor $\frac{1}{1.05}$, but I am not worse off since I have an additional $\frac{0.05}{1.05}$ of vaue in the new shares.
+
+### Share Repurchase
+
+#### Share Repurchase
+
+* The opposite comes when a firm buys its own shares on the market.
+* The value of the firm should go down by the amount they spent.
+* I as a shareholder, however, now own a larger share of the company.
+* If the firm repurchases shares instead of paying dividends, then my shares do not lose value, the company loses value but I have a bigger share in it.
+
+#### Reasons for Share Repurchase
+
+* Tax break for investors (obsolete in sense that tax rate on cap gains = that on dividends, but cap gains tax can be postponed).
+* Firms' unwillingness to cut dividends, uncertainty that current earnings will continue.
+* Price pop after a repurchase. Buybacks taken as a signal. But price pops are fading.
+* Now investors sometimes view repurchase as a sign that firm is 'old economy'. NASDAQ firms less likely to repurchase shares, as if they think value is too high.
+
+### PDV of Expected Dividends
+
+#### Price as PDV of Expected Dividends
+
+* If earnings equal dividends and if dividends grow at long-run rate $g$, then by growing consol model $P = \frac{E}{r-g},\quad P/E = \frac{I}{r-g}.$
+* So efficient markets theory purports to explain why P/E varies across stocks in terms of $r$ and $g$.
+* Efficient markets denies that any rule works other than simple diversification.
+* Value investing says invest in low P/E.
+
+### Why Do Firms Pay Dividends?
+
+#### Why do firms pay dividends?
+
+* Even when there was a stronger tax advantage to capital gains, firms paid dividend.
+* Framing matters. Dividends framed as income.
+
+#### Dividend Signalling
+
+* By raising dividends, firm shows it can court bankruptcy.
+* Problem: alternative signalling methods are cheapter taxwise.
+
+#### Lintner Model of Dividends
+
+* $DIV_{t} - DIV_{t-1} = p(\tau\times EPS_{t} - DIV_{t-1}).$
+* $\rho=$ adjustment rate, $0 < \rho < 1$.
+* $\tau=$ taget ratio, $0 < \tau < 1$, $$DIV_{t} = \rho\tau\sum_{k=0}^{\infty}(1-\rho)^{k} EPS_{t-k}.$$
+
+#### General Public Utilities Corp
+
+* Proposed to substitute stock dividends for cash dividends, and offered to sell the stock dividend for any stockholder for minmal transaction cost.
+* Direct saving to shareholder: $4 million a year.
+* Intense negative shareholder reaction.
