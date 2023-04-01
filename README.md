@@ -509,7 +509,7 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 
 * If the company gives away new shares, my shares become worth less; that is dilution.
 * If the company sells new shares at market price, that generally does not lower the value of my shares because the company has the money.
-* If the company issues a stock dividend at $5\%$, then that lowers the value of my orginal shares by factor $\frac{1}{1.05}$, but I am not worse off since I have an additional $\frac{0.05}{1.05}$ of vaue in the new shares.
+* If the company issues a stock dividend at $5\%$, then that lowers the value of my orginal shares by factor $\frac{1}{1.05}$, but I am not worse off since I have an additional $\frac{0.05}{1.05}$ of value in the new shares.
 
 ### Share Repurchase
 
