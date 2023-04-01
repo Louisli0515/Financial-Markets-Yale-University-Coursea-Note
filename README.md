@@ -357,3 +357,50 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 
 * The following is the EONIA (European Over Night Index Average is European Counterpart to Fed Funds) 
 
+<img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/229288445-763e908d-bb3a-4cce-bd3b-1017fcef574f.jpg>
+
+#### Why negative interest rate?
+
+* Too much cash need insurance because they are feared to be stolen, also trucks and other costs like big valut.
+* Therefore they want consumers to spend more moeny
+
+#### Causes of Interest Rates
+
+* Usually 3% - 5%.
+
+### Compound Interest
+
+#### Compound Interest
+
+* If annual rate is $r$, compounding once per year, balance = $(1+r)^{t}$ after $t$ years.
+* If compounded twice per year, balance is $(1+\frac{r}{2})^{2t}$ after $t$ years.
+* If compounded $n$ times per year, balance is $(1+\frac{r}{n})^{nt}$ after $t$ years.
+* Continuous compounding, balance is $e^{rt}$. (Taking the limit of the above formula.)
+
+### Discount Bonds
+
+#### Discount Bonds
+
+* No coupon payments, just principal at maturity date (conventionally, $ \$100$).
+* Initially sold at a discount (less than $ \$100$) and price rises through time, creating income
+* Term $T$, Yield to Maturity (YTM) $r$, $$P = \frac{1}{(1+r)^{T}},\quad P =\frac{1}{(1+\frac{r}{2})^{2T}}.$$
+
+#### Present Discounted Value (PDV)
+
+* PDV of a dollar in one year = $\frac{I}{I+r}.$
+* PDV of a dollar in $n$ year = $\frac{I}{(I+r)^{n}}.$
+* PDV of a stream of payments $x_{1},...,x_{n}.$
+
+#### Conventional Bonds Carry Coupons
+
+* Conventional BOnd Issued at par (100), coupons every six months.
+* Term is time to maturity $$P_{t} = c(\frac{1}{r}-\frac{1}{(1+r)^{T}}\frac{1}{r})+\frac{100}{(1+r)^{T}},$$ and $$P_{t} = \frac{c}{2}(\frac{1}{r/2}-\frac{1}{(1+r/2)^{2T}}\frac{1}{r/2})+\frac{100}{(1+r/2)^{2T}}.$$
+
+### Consol and Annuity
+
+####Consol and Annuity Formulas
+
+* Consol pays constant quantity $x$ forever
+* Growing consol pays $x(l+g)^{t-l}$ in $t$.
+* Annuity pays $x$ from time $l$ to $T$: $$\text{Consol PDV} = \frac{x}{r},\quad\text{Growing Consol PDV} = \frac{x}{r-g},\quad\text{Annuity PDV} = x\frac{1-\frac{1}{(1+r)^{T}}}{r}.$$
+
