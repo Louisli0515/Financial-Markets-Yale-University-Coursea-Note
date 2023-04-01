@@ -347,3 +347,7 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 * Lack of empathy, incapacityfor intimacy.
 * Manipulative, deceitful, callous, hostile.
 * Irresponsible, impulsive, risk-taking
+
+## Module 3
+
+### Fedral Funds and Interest Rates
