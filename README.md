@@ -452,3 +452,13 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 * Non-profit is not owned, self-perpetuating directors. Not subject to corporate profits tax.
 * For-profit exists to benefit shareholders, non-profit does not.
 * So for-profit has a price per share, non-profit does not.
+
+### Shars and Dividends
+
+#### Meaning of Shares and Market Cap
+
+* My ownership of company equals my shares divided by total shares.
+* Splits are essentially meaningless.
+* If the company pays a dividend, the value of the share should go down by the amount of the dividend per share.
+* If the company does something to increase the value of the company without increasing the number of shares, my shares gain value.
+* It is all in the ratio, total value of company divided by total number of shares. If you affect numerator and denominator equally, then there is no effect on price per share.
