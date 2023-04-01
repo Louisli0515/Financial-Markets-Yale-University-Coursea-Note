@@ -351,3 +351,9 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 ## Module 3
 
 ### Fedral Funds and Interest Rates
+
+* The following is the Fedral Funds Rate: Shortest-Term Interest Rate in U.S.
+<img width=50% height=50% src =https://user-images.githubusercontent.com/128298224/229288172-d241b0cd-413e-4cbf-92e5-b01430ae31b4.jpg>
+
+* The following is the EONIA (European Over Night Index Average is European Counterpart to Fed Funds) 
+
