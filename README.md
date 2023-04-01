@@ -1,5 +1,5 @@
 # Financial-Markets-Yale-University-Coursea-Note
-My own note about Financial Market module at Yale University
+My own note about Financial Market module at Yale University. The professor is Robert J.Shiller who won the ***Nobel Memorial Prize in Economics*** in 2013.
 
 ## Module 1 
 
@@ -398,9 +398,38 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 
 ### Consol and Annuity
 
-####Consol and Annuity Formulas
+#### Consol and Annuity Formulas
 
 * Consol pays constant quantity $x$ forever
-* Growing consol pays $x(l+g)^{t-l}$ in $t$.
-* Annuity pays $x$ from time $l$ to $T$: $$\text{Consol PDV} = \frac{x}{r},\quad\text{Growing Consol PDV} = \frac{x}{r-g},\quad\text{Annuity PDV} = x\frac{1-\frac{1}{(1+r)^{T}}}{r}.$$
+* Growing consol pays $x(1+g)^{t-1}$ in $t$.
+* Annuity pays $x$ from time $1$ to $T$: $$\text{Consol PDV} = \frac{x}{r},\quad\text{Growing Consol PDV} = \frac{x}{r-g},\quad\text{Annuity PDV} = x\frac{1-\frac{1}{(1+r)^{T}}}{r}.$$
 
+#### Growing Consol Formula
+
+* The Growing Consol formula is from Jacob Bernoulli
+
+### Forward Rates and Expectation Theory
+
+#### Forward Rates
+
+* Forward rates are interest rates that can be taken in advance using term structure. $$(1+r_{2})^{2} = (1+r_{1})(1+f_{2}), \quad (1+r_{k})^{k} = (1+r_{k-1})^{k-1}(1+f_{k}).$$
+
+### Inflation
+
+#### Inflation and Interest Rates
+
+* Nominal rate quoted in dollars, real rate quoted market baskets (price index).
+* Nominal rate usually greater than real rate $$(1+r_{money}) = (1+r_{real})(1+i),\quad r_{money}\approx r_{real}+i.$$
+
+### Leverage
+
+#### Leverage and its Discontents
+
+* The start of the 2008 world financial crisis had to do with home buyers in U.S. and elsewhere borrowing to buy homes.
+* China today is a highly leveraged economy, arousing concerns.
+* Debt leads to bankruptcies, possible world crises.
+
+#### The Debt-Deflation Theory of Great Depressions -- Irving Fisher
+
+* Deflation redistributes real wealth from debtors to creditors.
+* Creditors tend to be more cautious.
