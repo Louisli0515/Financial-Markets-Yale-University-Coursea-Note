@@ -659,4 +659,7 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 * Total points and fees that do not exceed 3 percent of the total loan amount, or the applicable amounts specified for small loans up to $100,000;
 * Payments underwritten using the maximum interest rate that may apply during the first five years after the date on which the first regular periodic payment is due;
 * Consideration and verification of the consumer's income and assets, including exmployment status if relied upon, and current debt obligations, mortgage-relateed obligations, alimony and child support;
-* Total DTI ratio that does not exceed 43%.
+* Total DTI (Debt to Income ratio) ratio that does not exceed 43%.
+
+### The Bubble Part 1
+
