@@ -683,3 +683,128 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 * It is difficult for Chinese to invest abroad, there are limits on how much they can put abroad. There's a fear of corruption in China, a fear of being taken advantage of, so they might tend to prefer investments in a house that they can see. Xi Jin Ping is trying to combat corruption, but there is still a public perception.
 * Save money and buy a house for the son, so that he can impress young woman.
 * All kind of Chinese facotrs that has been driving home prices up there.
+
+### Regulation Overview
+
+#### Business Wants Regulation
+
+* Without regulation, people are forced to dothings in a competitive system that they think are bad for society.
+* Forced to lowest common denominator.
+* Analogy to having a referee at a sports referee.
+* Players hate referees, but without them they know game would deteriorat into something ugly.
+
+### Within Firm Regulation Part 1
+
+#### The Board of Directors
+
+* The Board of Directors act like a regulator.
+* Outside directors represent a broader community.
+* Society functions to quarantine people with personality disorders, and people derive reputations.
+* Putting outsiders of known reputations on a board is a singal to outsiders of regulation.
+
+#### Tunneling
+
+* Tunneling = Expropriation by minority shareholders.
+
+### Within Firm Regulation Part 2
+
+#### How Tunneling is Achieved
+
+* Asset sales
+* Contracts, as for prices paid for inputs
+* Excessive executive compensation
+* Loan guarantees
+* Expropriation of corporate opportunities
+* Dilutive share issues
+* Insider trading
+
+### Local Regulation
+
+#### Banking Regulation
+
+* Belonged to states until the National Banking Act of 1863.
+
+#### Blue Sky Laws
+
+* Regulates the offering and sale of securities to protect the public from fraud, regulates brokers and advisors.
+
+### National Regulation Part 1
+
+#### Local Regulation Failed
+
+* SEC part of Roosevelt's New Deal, 1934.
+* Initially viewed by business as a radical, almost socialist, institution. Peculiar that it started in US, imitated by other countries.
+
+#### Public vs. Private Securities
+
+* Motive was repeated examples of exploitation of minority or unobservant shareholders.
+* Public securities: undergo approved process of issuance under SER surveillance.
+
+#### Hedge Funds
+
+* For wealthy investors only
+* Those structured as 3c1s can take no more than 99 investors, and they must be "accredited investors" as defined by the SEC which means income of $200,000 or investable assets of $1,000,000 (SEC proposal in 2006 to raise to $2,500,000 did not happen)
+* Those structured as 3c7s can take 500 investors, but they must be "qualified purchasers" as defined by the SEC, individuals with net worth of at least $5 million or institutions with net worth of at least $25 million.
+
+#### SEC Rules
+
+* Every broker must register with SEC.
+* Every stock exchange must register.
+* Every security issue must register.
+* Registration does not literally mean SEC approval.
+
+### National Regulation Part 2
+
+#### Insiders vs. Outsiders
+
+* Insiders are people with special access to information about a company.
+* Inside information represents wealth.
+* SEC tries to define access to this wealth, by disclosure rules.
+* Regulation FD 2000: requires that when a company tells any material fact to an analyst, it must immediately tell the public.
+* Some argue that inside trading is good because insider traders compete each other and they might not earn a lot profit after all. 
+
+#### Front Running and Decimalization
+
+* Front-Running occurs when a broker buys shares in front of a large order that will boost stock price.
+* Decimalization on NYSE and Amex begain January 29, 2001.
+* Decimalization favors front-running.
+
+#### Financial Accounting Standards Board
+
+* FASB officially recongnised as authoritative by SEC in 1973. Though SEC has statutory right to make accounting standards, perfers private sector do it.
+
+#### Earnings Definitions
+
+* GAPP Define "Net Income" which is the bottom line, traditionally and "operating income", revenue minus cost of doing business
+* Operating earnings, Core Earnings, Pro Earnings, EBITDA, and Adjusted Earnings are not GAAP.
+* FASB is at work on developing new definitions, but this takes years.
+
+### National Regulation Part 3
+
+#### The 2008 Financial Crisis as Result of Regulatory Failure before Crisis
+
+* Many home buyers were put into unsuitable mortgages, later to default.
+* Leverage ratio of the financial sector was allowed to reach historically high levels.
+* Banks and governments used off-balance-sheet accounting to conceal liabilities.
+
+### International Regulation
+
+#### Bank for International Settlements
+
+* Created 1930 by Hague Agreements.
+* Has 57 member central banks, who are in turn national regulators.
+
+#### G20
+
+* Group of Twenty Finance Ministers and Central Bank Governors (G-20, G20, Group of Twenty)
+* Founded 2008
+
+#### Financial Stability Board
+
+* Created by G20, April 2009
+
+#### Final Thoughts
+
+* Regulation has to continually change through time as technology changes.
+* World economy dominates more and more, and so regulation will shift to international.
+
