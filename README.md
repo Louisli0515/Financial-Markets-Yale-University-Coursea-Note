@@ -604,4 +604,10 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 
 ### Mortages part 1
 
-#### 
+#### Fedral Housing Administration
+
+* Established by Roosevelt in 1934
+* Required 15-year loans
+* Insures the lender against loss
+
+### Mortages part 2
