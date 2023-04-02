@@ -562,7 +562,7 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 
 ## Module 4
 
-### History of Mortgaage Lending
+### History of Mortgage Lending
 
 * Verb mortgage means commit property as collateral for a loan. Could mortgage your soul to the devil.
 * Chinese documnets usually prescribed fines, including fines on relatives for failing to pay in Tang dynasty.
@@ -572,13 +572,13 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 #### Real Estate Partnerships as the Major Example of a DPP
 
 * For accredited investors
-* Real estate limited partnerships represent the most important example of a Direct Participation Program (DPP), a class of investmens that also includes oil and gas exploration programs and equipment leasing programs.
+* Real estate limited partnerships represent the most important example of a Direct Participation Program (DPP), a class of investments that also includes oil and gas exploration programs and equipment leasing programs.
 * "Direct partcipation" DPPs are "flow-throw vehicles" and investors can deduct program losses on personal taxes.
 * "Tax shelters" until the Tax Reform Act of 1986: losses used to offset "passive income". Now, genuine businesses.
 * DPPs escape the corporate profits tax
-* IRS requirements, notably limiation of life.
+* Internal Revenue Service (IRS) requirements, notably limiation of life.
 
-#### Limiteed Partnership Structure
+#### Limited Partnership Structure
 
 * General partner runs the business, does not have limited liability
 * General partner must own at least 1%.
@@ -617,9 +617,9 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 #### Kinds of Mortgages
 
 * Conventional, fixed rate mortgage.
-* Adjustable rate mortage (ARM).
-* Price level adjusted mortgage (PLAM) payment adjusted to inflation so constant in real terms.
-* Dual rate mortageas (DRAMs) same as PLAM but interest rate floats.
+* Adjustable rate mortage (ARM). An adjustable rate mortgage (ARM) is a type of mortgage loan where the interest rate fluctuates periodically based on a specific index, such as the London Interbank Offered Rate (LIBOR) or the prime rate. 
+* Price level adjusted mortgage (PLAM) payment adjusted to inflation so constant in real terms. A Price Level Adjustable Rate Mortgage (PLARM) is a type of mortgage loan where the interest rate is adjusted based on changes in the price level index. The price level index is a measure of inflation that tracks changes in the overall price level of goods and services in an economy.
+* Dual rate mortgages (DRAMs) same as PLAM but interest rate floats. A dual-rate mortgage is a type of home loan where the interest rate changes based on a pre-determined schedule. The interest rate typically starts at a fixed, lower rate for an initial period of time, such as five or seven years, and then adjusts to a higher rate for the remainder of the loan term.
 * Shared appreciation mortgages (SAMs)
 * First mortgages: on purchase of home.
 * Home equity loans.
@@ -627,17 +627,19 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 ### PMI, CMOs, CDOs
 
 #### Private Mortgage Insurance (PMI)
-
+* Private Mortgage Insurance (PMI) is a type of insurance that protects lenders in the event that a borrower defaults on their mortgage loan. PMI is typically required by lenders when a borrower makes a down payment of less than 20% of the home's purchase price.
 * Companies, such as MGIC, insure Fannie & Freddie against losses on their mortgages.
 * Controversy: with recent real estate price increases, LTV(Loan to value ratio) has declined below 80% for many homeowners still paying for mortgage insurance. The PMIs don't notify them.
 
 #### Collateralized Mortgage Obligations (CMOs)
 
+* Collateralized Mortgage Obligations (CMOs) are a type of investment security that is created by pooling together individual mortgage loans and then dividing the pool into smaller pieces or tranches that are sold to investors.
 * CMOs divide the cash flow of a mortgage pass-through security into a number of tranches in terms of prepayment risk.
 * Sequential-pay CMOs (first created 1983): First tranche receives first principla payments, after it is paid off the second tranche receives principal payments.
 
-#### Collateralized Devt Obligations (CDOs)
+#### Collateralized Debt Obligations (CDOs)
 
+* Collateralized debt obligation, commonly known as CDO, is a type of structured financial product that pools together a diverse portfolio of debt securities and creates different tranches or slices of varying levels of risk and return. These securities are then sold to investors.
 * Hold securities, typically mortgage securities as their assets.
 * Typically hold subprime mortgages.
 * CDOs divide the cash flow into a number of tranches in terms of default risk.
@@ -732,13 +734,13 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 
 #### Local Regulation Failed
 
-* SEC part of Roosevelt's New Deal, 1934.
+* Securities and Exchange Commission (SEC) part of Roosevelt's New Deal, 1934.
 * Initially viewed by business as a radical, almost socialist, institution. Peculiar that it started in US, imitated by other countries.
 
 #### Public vs. Private Securities
 
 * Motive was repeated examples of exploitation of minority or unobservant shareholders.
-* Public securities: undergo approved process of issuance under SER surveillance.
+* Public securities: undergo approved process of issuance under SEC surveillance.
 
 #### Hedge Funds
 
