@@ -623,3 +623,40 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 * Shared appreciation mortgages (SAMs)
 * First mortgages: on purchase of home.
 * Home equity loans.
+
+### PMI, CMOs, CDOs
+
+#### Private Mortgage Insurance (PMI)
+
+* Companies, such as MGIC, insure Fannie & Freddie against losses on their mortgages.
+* Controversy: with recent real estate price increases, LTV(Loan to value ratio) has declined below 80% for many homeowners still paying for mortgage insurance. The PMIs don't notify them.
+
+#### Collateralized Mortgage Obligations (CMOs)
+
+* CMOs divide the cash flow of a mortgage pass-through security into a number of tranches in terms of prepayment risk.
+* Sequential-pay CMOs (first created 1983): First tranche receives first principla payments, after it is paid off the second tranche receives principal payments.
+
+#### Collateralized Devt Obligations (CDOs)
+
+* Hold securities, typically mortgage securities as their assets.
+* Typically hold subprime mortgages.
+* CDOs divide the cash flow into a number of tranches in terms of default risk.
+* CDO debt crisis 2007.
+* Criticism of rating agencies for not downgrading them.
+
+### Post Crisis Regulation
+
+#### A Fix Begun in Europe
+
+* 5% mortgage originator must hold 5% of mortgages, European parliament.
+* Qualifying Residential Mortgages (QRMs) are exempt from requirement in USA.
+
+#### Requirements for QRM
+
+* Regular periodic payments that are substantially equal;
+* No negative amortization, interest only or ballon features;
+* A maximum loan term of 30 years;
+* Total points and fees that do not exceed 3 percent of the total loan amount, or the applicable amounts specified for small loans up to $100,000;
+* Payments underwritten using the maximum interest rate that may apply during the first five years after the date on which the first regular periodic payment is due;
+* Consideration and verification of the consumer's income and assets, including exmployment status if relied upon, and current debt obligations, mortgage-relateed obligations, alimony and child support;
+* Total DTI ratio that does not exceed 43%.
