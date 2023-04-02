@@ -669,4 +669,17 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 
 #### Evidence of Feedback Mechanism
 
+<img width = 50% height = 50% src =https://user-images.githubusercontent.com/128298224/229349254-6c5a4305-062b-4ce6-af8b-dc44d5e7140d.png>
+
 * Real Estate is the Best Investment
+
+### The Bubble Part 3
+
+#### There will be a new bubble after 2007 crash
+
+* There will be a new bubble after 2007 crash in the housing markets, especially in some emerging markets like China.
+* The housing values in Guangzhou are more expensive than in Manhattan, but the average salary is not the half of the Manhattan's.
+* Parents are helping out. The total value of land in China is high relative to their GDP, and the price to rent is high.
+* It is difficult for Chinese to invest abroad, there are limits on how much they can put abroad. There's a fear of corruption in China, a fear of being taken advantage of, so they might tend to prefer investments in a house that they can see. Xi Jin Ping is trying to combat corruption, but there is still a public perception.
+* Save money and buy a house for the son, so that he can impress young woman.
+* All kind of Chinese facotrs that has been driving home prices up there.
