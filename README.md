@@ -746,7 +746,7 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 * Those structured as 3c1s can take no more than 99 investors, and they must be "accredited investors" as defined by the SEC which means income of $200,000 or investable assets of $1,000,000 (SEC proposal in 2006 to raise to $2,500,000 did not happen)
 * Those structured as 3c7s can take 500 investors, but they must be "qualified purchasers" as defined by the SEC, individuals with net worth of at least $5 million or institutions with net worth of at least $25 million.
 
-#### SEC Rules
+#### Securities and Exchange Commission (SEC) Rules
 
 * Every broker must register with SEC.
 * Every stock exchange must register.
