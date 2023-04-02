@@ -559,3 +559,49 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 * Proposed to substitute stock dividends for cash dividends, and offered to sell the stock dividend for any stockholder for minmal transaction cost.
 * Direct saving to shareholder: $4 million a year.
 * Intense negative shareholder reaction.
+
+## Module 4
+
+### History of Mortgaage Lending
+
+* Verb mortgage means commit property as collateral for a loan. Could mortgage your soul to the devil.
+* Chinese documnets usually prescribed fines, including fines on relatives for failing to pay in Tang dynasty.
+
+### Commercial Real Estate Vehicles
+
+#### Real Estate Partnerships as the Major Example of a DPP
+
+* For accredited investors
+* Real estate limited partnerships represent the most important example of a Direct Participation Program (DPP), a class of investmens that also includes oil and gas exploration programs and equipment leasing programs.
+* "Direct partcipation" DPPs are "flow-throw vehicles" and investors can deduct program losses on personal taxes.
+* "Tax shelters" until the Tax Reform Act of 1986: losses used to offset "passive income". Now, genuine businesses.
+* DPPs escape the corporate profits tax
+* IRS requirements, notably limiation of life.
+
+#### Limiteed Partnership Structure
+
+* General partner runs the business, does not have limited liability
+* General partner must own at least 1%.
+* Limited Partners are passive investors, with limited liability, rights to vote, can replace general partner.
+* General partner or associate usually runs the offering to sell units to investors.
+
+#### REITs
+
+* Real Estate Investment Trusts (REITs) were created by US Congress in 1960 to allow small investors access to real estate investment.
+* Before 1960, public companies that owned real estate would be considered businesses, for which their earnings would be subject to corporate profits tax. Until 1960, real estate was typically owned by partnerships, not suitable for small investors.
+
+#### Restrictions on REITs
+
+* 75% of assets must be in real estate or cash.
+* 75% of income must be from real estate.
+* 90% of their income must be from real estate, dividend, interest & capital gains.
+* 95% of income must be paid out.
+* No more than 30% of income from sale of properties held less than 4 years.
+
+#### Real state is scarce
+
+* It had something to do with the free market revolution that started in Britain with Margaret Thatcher and in the United States with Ronald Reagan, and then in China with Deng Xiao Ping.
+
+### Mortages part 1
+
+#### 
