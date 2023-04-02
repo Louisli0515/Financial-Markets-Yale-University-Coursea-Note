@@ -611,3 +611,15 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 * Insures the lender against loss
 
 ### Mortages part 2
+
+<img width = 50% height = 50% src =https://user-images.githubusercontent.com/128298224/229347627-140f5d1f-e673-423e-b2cb-2b17da280520.png>
+
+#### Kinds of Mortgages
+
+* Conventional, fixed rate mortgage.
+* Adjustable rate mortage (ARM).
+* Price level adjusted mortgage (PLAM) payment adjusted to inflation so constant in real terms.
+* Dual rate mortageas (DRAMs) same as PLAM but interest rate floats.
+* Shared appreciation mortgages (SAMs)
+* First mortgages: on purchase of home.
+* Home equity loans.
