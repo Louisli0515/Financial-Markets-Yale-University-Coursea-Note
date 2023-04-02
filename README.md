@@ -663,3 +663,10 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 
 ### The Bubble Part 1
 
+<img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/229348992-f8941e2f-3987-45b8-abe0-82a8764856e2.png>
+
+### The Bubble Part 2
+
+#### Evidence of Feedback Mechanism
+
+* Real Estate is the Best Investment
