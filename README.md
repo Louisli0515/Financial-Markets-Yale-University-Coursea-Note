@@ -1148,3 +1148,5 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 * Other hotspots for default today: Ukraine, Puerto Rico.
 
 #### Reinhart-Rogoff Tally of Defaults
+
+<img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/229557567-d161030f-832d-4995-a145-2a3fbe84d9b8.jpg>
