@@ -1150,3 +1150,56 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 #### Reinhart-Rogoff Tally of Defaults
 
 <img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/229557567-d161030f-832d-4995-a145-2a3fbe84d9b8.jpg>
+
+### Government involvement in Corporations
+
+#### The distinction between Private Sector and Public Sector is Tenuous
+
+* Governments all over the world regulate business. Sometimes governments will own shares in private businesses.
+* Private businesses know they may be nationalised in the future.
+
+#### Personal Bankruptcy
+
+* Every individual is like a business with the government as a partial shareholder.
+
+### Municipal Finance
+
+#### Bsic Motivation of Local Debt
+
+* People move in and out of locality, sometimes there is a reasonable prospect of future population infow,
+* With steady population growth, cities should borrow to finance construction of roads, swers, etc. to be ready for them, and they should pay for it when they arrive by paying texes to pay the debt.
+
+#### State Constitutional Prohibitions against Deficit Spending
+
+* Connecticut adopted a constitutional amendment in 1991 against deficit spending on the general account at time that is instituted a state income tax.
+* Can still run deficit on capital account.
+
+#### Revenue Bonds
+
+* If the city issues debt, why doesn't it issue equity?
+* It does with revenue bonds, but only when they are doing a project that yields them improvements.
+
+#### Social Insurance
+
+* Progressive Taxes (US 1913)
+* Free public education and services.
+* Social Security: OASDI, Old Age, Survivors and Disability Insurance (US 1935)
+* Health Insurance: Medicare, Medicaid (US, both 1965). US is only major developed country without comprehensive health insurance.
+* Workers Compensation (US before 1920)
+
+#### Failure of First US Income Tax
+
+* After Civil War, compliance declined, estimated that in 1872 only 10% of eligible taxpyaers actually paid.
+* Tax rescinded 1872.
+
+#### Withholding of Income Taxes
+
+* Important human engineering element of income tax system.
+* Endowment effect Thaler.
+* Fairness issues.
+* Underground economy flourishes where withholding is impossible.
+
+#### Survivors Insurance
+
+* Created in 1939 Amendments to the Social Security Act.
+* Government life insurance.
