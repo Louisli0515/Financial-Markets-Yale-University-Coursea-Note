@@ -810,3 +810,64 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 * Regulation has to continually change through time as technology changes.
 * World economy dominates more and more, and so regulation will shift to international.
 
+## Module 5
+
+### Forwards and Futures Markets
+
+#### Public Lack of Appreciation of Derivative Markets
+
+* A derivative market is a market in another market. There is some 'underlying market'.
+
+### Forward Contracts
+
+#### Forward Contract
+
+* Forward is just a contract to deliver at a future date (exercise date or maturity date) at a specified exercise price.
+* Example: Rice farmer sells rice to warehouser.
+* Example: Foreign Exchange forward. Contract to sell pounds for yen.
+* Both sides are locked into the contract, no liquidity.
+
+#### FX Forwards and Forward Interest Parity
+
+* FX Forward is like a pair of zero coupon bonds.
+* Therefore, forward rate reflects interest rates in the two currencies.
+* Forward Interest Parity: $$\text{forward exchange rate}(Y/$) = \text{spot exchange rate}(Y/$)\times\frac{1+r_{Y}}{1+r_{$}}.$$
+
+#### Forward Rate Agreements
+
+* Promises interest rate on future loan.
+* L = actual interest rate on contract date
+* R = contract rate
+* D = days in contract period
+* A = contract amount
+* B = 360 or 365 days $$\text{Settlement} = \frac{(L-R)\times D\times A}{(B\times 100)+L\times D}.$$
+
+### Future Contract
+
+#### Futures Contracts
+
+* Futures contracts differ from forward contracts in that contractors deal with an exchange rather than each other, and thus do not need to access each others' credit.
+* Futures contracts are standardized retail products, rather than custom products.
+* Futures contracts rely on margin calls to guarantee performance.
+
+### Rice Futures
+
+#### First Futures Market:Osaka
+
+* Begun at Dojima, Osaka, Japan in 1670s. World's only futures market until 1860s.
+* Dojima was centre for rice trade, with 91 rice warehouse in 1673. Rice is the underlying primary market.
+* Dojima futures exchange had precise definitions of quality, delivery date and place, experts who evaluated rice quality, and clearinghouses for contracts. These are derivatives.
+
+### Buying, Selling and Settlement
+
+#### Buying or Selling Futures
+
+* When one 'buys' a futures contract, one agrees with the exchange to a daily settlement procedure that is only loosely analogous to buying the commodity. One must post initial margin with the futures commission merchant.
+* Same as when one 'sells' a futures contract, no intention of selling the commodity. Again, post margin.
+
+#### Daily Settlement
+
+* Every day, the exchange defines a price called the 'settle' price, which is essentially the last trade on that day.
+* Every day until expiration a buyer's margin account is credited with the amount: change in settle price $\times$ contract amount.
+* If contract is cash settled, on the last day the margin account is credited with $\times$ contract amount.
+* If contract is physical delivery, on last day buyer must receive commodity.
