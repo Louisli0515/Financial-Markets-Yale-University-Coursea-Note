@@ -960,7 +960,7 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 #### Put-Call Parity Relation
 
 * Put option price - call option price = present value of strike price + present value of dividends - price of stock
-* Price of  stock = call price + pdv strke + pdv dividends - put price
+* Price of  stock = call price + pdv strike + pdv dividends - put price
 * For European options, this formula must hold, otherwise there would be arbitrage profit opportunities.
 
 ### Using Options to Hedge
