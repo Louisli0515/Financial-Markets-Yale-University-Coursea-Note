@@ -1114,4 +1114,8 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 
 #### Limit Order Book
 
+<img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/229552460-bd594b96-14c2-466c-ae82-322e8700128b.jpg>
 
+### High Frequency Trading
+
+#### High Frequency Trading
