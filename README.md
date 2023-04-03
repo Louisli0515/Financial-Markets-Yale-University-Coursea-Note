@@ -871,3 +871,19 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 * Every day until expiration a buyer's margin account is credited with the amount: change in settle price $\times$ contract amount.
 * If contract is cash settled, on the last day the margin account is credited with $\times$ contract amount.
 * If contract is physical delivery, on last day buyer must receive commodity.
+
+### Fair Value in Futures Contracts
+
+#### Fair Value in Futures Contract
+
+* r = interest rate
+* s = stoarge cost
+* r+s = cost of carry
+* Futures price is normally above cash price (contango), otherwise, 'backwardation'. $$P_{\text{future}} = P_{\text{spot}}(1+r+s).$$
+
+### Oil Future
+
+#### Oil Futures
+
+* Crude light sweet oil contract size: 10000 barrels, open interest 431,000 contracts. Physical delivery.
+* Brent crude, North Sea contract.
