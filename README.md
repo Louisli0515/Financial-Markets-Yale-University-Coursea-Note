@@ -1119,3 +1119,22 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 ### High Frequency Trading
 
 #### High Frequency Trading
+
+* Computer programs can trade algorithmically.
+* Trades can be flashed for a millisecond, and only computers will respond.
+* Speed of transmission matters.
+* Fully automated markets gaining ground over less automated markets such as NYSE.
+
+### Payment for Order Flow
+
+#### Payment for Order Flow
+
+* Brokers drum up orders, deal with customers.
+* Brokers sell the order flow to crossing networks, who profit from the order flow.
+* Firms must also report statistics on their order-execution quality.
+
+#### Kinds of Orders
+
+* Market Order 
+* Limit Order
+* Stop Loss Order: Market orders dangerous for thinly-traded stocks; ECNs may not allow market orders.
