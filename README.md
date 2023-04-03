@@ -912,3 +912,60 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 * Created by Chicago Borad of Trade (CBOT) 1988.
 * Show timing of expected actions of Federal Open Market Committee.
 * One-month-ahead forecast errors typically in the ten to twenty basis point range.
+
+### Options Overview
+
+#### Options
+
+* Calls, a right to buy
+* Puts, a right to sell
+* With options, one pays money to have a choice in the future.
+* Essence of options is not that I buy the ability to vacillate, or to exercise free will. The choice one makes actually depends only on the underlying asset price.
+* Options are truncated claims on assets.
+
+#### Terms of Options Contract
+
+* Exercise date
+* Exercise price
+* Definition of underlying and number of shares.
+
+### Why Options exist
+
+#### Why Have Options? A. Theoretical
+
+* Theoretical Reason: Kenneth Arrow argued that a major source of economic inefficiency is the absence of markets for risks.
+* Stephen Ross argued that financial options have a central place in the form of "completing the market".
+
+#### Why Have Options? B. Behavioral
+
+* Salience and Attention.
+* People buy insurance, do not want to give up up side of investment.
+* Peace of mind, with put option.
+
+### Ubiquity of Options
+
+#### Ubiquity of Options
+
+* Limited Liability makes stocks into an option, gives peace of mind.
+* Mortgages involve an option to default (in non-recourse states).
+* Mortgages have a prepayment option. When you sell, you do not have to buy your way out of the mortgage.
+
+#### Options Exchanges
+
+* Chicago Board Options Exchange, a spinoff from the Chicago Board of Tradae 1973, traded first standardised options.
+* Futures exchanges trade options on futures.
+
+### Put/Call parity
+
+#### Put-Call Parity Relation
+
+* Put option price - call option price = present value of strike price + present value of dividends - price of stock
+* Price of  stock = call price + pdv strke + pdv dividends - put price
+* For European options, this formula must hold, otherwise there would be arbitrage profit opportunities.
+
+### Using Options to Hedge
+
+#### Using Options to Hedge
+
+* To put a floor on one's holding of stock, one can buy a put on same number of shares.
+* Alternatively, one can just decide to sell whenever the price reaches the floor.
