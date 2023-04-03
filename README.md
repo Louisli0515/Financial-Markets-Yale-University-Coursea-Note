@@ -1138,3 +1138,13 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 * Market Order 
 * Limit Order
 * Stop Loss Order: Market orders dangerous for thinly-traded stocks; ECNs may not allow market orders.
+
+### Government debt
+
+#### Carmen Reinhart on Sovereign Default
+
+* Public misunderstands default - rarely do governments repudiate entire debt.
+* More common is that governments inflate the currency.
+* Other hotspots for default today: Ukraine, Puerto Rico.
+
+#### Reinhart-Rogoff Tally of Defaults
