@@ -969,3 +969,107 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 
 * To put a floor on one's holding of stock, one can buy a put on same number of shares.
 * Alternatively, one can just decide to sell whenever the price reaches the floor.
+
+## Module 6
+
+### Investment Banks Introduction
+
+#### Difference in US between Investment Banks and Commercial Banks
+
+* Investment banks do not accept deposits, and have not been regulated as banks.
+* Investment banks traditionally are not members of the Fedral Reserve System and do not normally access discount window.
+* Investment banks underwrite of securities rather than make loans.
+
+#### Investment Banks
+
+* Traditional US bulge-brack firms: First Boston (acquired by Credit Suisse), Goldman Sachas (now a bank holding company), Merrill Lynch (now part of Bank of America), Morgan Stanley, Salomon Brothers (merged into Citicorp), Lehman Brothers (bankrupt 2008)
+* Originally were usually partnerships, but partnership form has been disappearing, resulting in greater risk taking and crisis.
+
+### The Underwriting Process
+
+#### Underwriting of Securities
+
+* Issuance of shares and corporate debt
+* Seasoned issue versus IPO
+* Underwriter provides advice for issuer, distribution of securities, sharing of risks of issue, and stabilisation of aftermarket.
+* Underwriter also 'certifies' the issue by putting its reputation behind the issue.
+
+#### Moral Hazard Problem Mitigated by Investment Banks
+
+* Firms have incentive to issue shares when they know their earnings are only temporarily high.
+* This problem can be "solved" by resorting to bank loans instead of new equity.
+* Problem can also be solved by issuing security with an investment bank that has a reputation to protect.
+* Studies show that investment banks that repeatedly underprice or overprice issues suffer a market share loss afterwards.
+
+#### Two Basic Kinds of Offerings
+
+* Bought deal: The underwriter agrees to buy all shares that are not sold.
+* Best efforts: The underwriter says that if the issue is not sold, deal collapses
+
+#### The Underwriting Process I
+
+* Prefiling period.
+* Advise issuers about their choices.
+* Agreement among underwritiers, designates manager, fees.
+* Filing of registration statement with SEC, begins cooling-off period.
+* Cooling off period - distribute preliminary prospectus, nothing else.
+
+#### The Underwriting Process II
+
+* Call prospective clients for indication of interest.
+* Due diligence meeting between underwriter and corporation.
+* Decide on offering price.
+* Dealer agreement, dealers purchase from underwriters at a discount from public price.
+
+#### Stabilization
+
+* A form of market manipulation by the underwriter near the time of the issue that is permitted by SEC.
+* Underwriting syndicate legally allowed to conspire to 'fix' prices in market until entire issue is sold out.
+
+### IPOs
+
+#### Initial Public Offerings
+
+* Price tends to jump up immediately after an IPO is issued.
+* Apparently leave money upon the table.
+
+#### Poor Long-Run Performance of IPOs
+
+* Although average IPO earns a +16% return on the first day, this return tends to be offset over the next three years.
+
+### Goldman Sachs and John Whitehead
+
+* "Making money - always and no exeptions - was a principle of Goldman Sachs.
+
+### The Prudent Person
+
+#### Employment Retirees Income Secuirty Act: Prudent Man
+
+* With the care, skill, prudence and diligence under the circumstances then prevailing that a prudent man acting in a like capacity and familiar  with such matters would use in the conduct of an enterprise of a like character and with like aims.
+
+#### Financial Advisors
+
+* Anyone who advises others on the value of securities or advisability of investing or who publishes analysis.
+* Exclude banksers, lawyers, reporters, professors.
+* Exclude Broker Dealers whose advice is only incidental to their business.
+
+#### Financial Planners
+
+* Comprehensive planning for life, rather than just picking stocks.
+* Not regulated, not licensed in most countries.
+* Certified Financial Planner (CFP) designation, awarded by Certified Financial Planner Board of Standards.
+
+### Mutual Funds and ETFs
+
+#### Mutual Fund History
+
+* First mutual funds appeared Holland, 1770s Eendraght Maak Magt
+* In 1920s, many investment companies bilked small investors.
+* Massachusetts Investment Trust (MIT) in 1920s had only one class of investors, published portfolio, redeemed on demand.
+* Investment Company Institute
+
+#### ETFs vs. Mutual Funds
+
+* First Exchange Trade Fund: Standard & poors Depositary Receipts, AMEX 1993
+* SPDRs hold portfolio of S&P index
+* Management fee: low, like 12 basis points.
