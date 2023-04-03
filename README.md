@@ -887,3 +887,28 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 
 * Crude light sweet oil contract size: 10000 barrels, open interest 431,000 contracts. Physical delivery.
 * Brent crude, North Sea contract.
+
+<img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/229482514-9699fc9c-2d36-4c59-8a2d-5392c7b75647.jpg>
+
+#### OPEC
+
+* Organisation of Petroleum Exporting Countries established 1960 by Iran, Iraq, Kuwait, Saudi Arabia and Venezuela.
+* OPEC is weak today because of conflict in middle east, hence low oil prices.
+
+#### Government Oil Reserves
+
+* In 2000, President Clinton established a 2 million barrel heating oil reserve in New York and New Haven to help stabilise US heating oil prices. US consumption of heating oil about 100 million barrels a year.
+
+### SPI & FFR Futures
+
+#### Stock Price Index Futures
+
+* Cash settlement rather than physical delivery.
+* Settlement is $250*(Index_{t}- Futures_{t-1}).$
+* Fair value: $$F = P+P(r-y),$$ where F = fair value futures price, P = Stock price index, r = financing cost (interest rate), y = dividend yield.
+
+#### Federal Funds Futures Market
+
+* Created by Chicago Borad of Trade (CBOT) 1988.
+* Show timing of expected actions of Federal Open Market Committee.
+* One-month-ahead forecast errors typically in the ten to twenty basis point range.
