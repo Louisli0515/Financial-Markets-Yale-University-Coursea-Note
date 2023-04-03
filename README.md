@@ -1073,3 +1073,45 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 * First Exchange Trade Fund: Standard & poors Depositary Receipts, AMEX 1993
 * SPDRs hold portfolio of S&P index
 * Management fee: low, like 12 basis points.
+
+### Brokers and Dealers
+
+#### Brokers
+
+* Brokers act on behalf of Others as their Agent for which they earn a Commission.
+
+#### Dealers
+
+* A Dealer always act for Himself, in other words as a Principal in the transaction for which he makes a Markup.
+* Stands ready to buy and sell at posted prices, bid and asked, profit from bid-asked spread rather than commission.
+* Analogy to antiques dealers.
+
+#### Why are there Virtually no Real Estate Dealers?
+
+* Dealers pay ordinary income on capital gains in US. Real estate has to be held for a substantial time between sales anyway, so you could qualify for long-term capital gains if not a dealer.
+
+#### Good & Bad Broker Behavior
+
+* Good brokers do not churn.
+* SEC penalises "rogue brokers" who churn.
+
+### Exchanges
+
+#### Traditional Four Markets
+
+* First Market: NYSE
+* Second Market: NASDAQ National Market
+* Third Market: NASDAQ small cap
+* Fourth Market: Large institutions trade amongst themselves without the use of a securities firm
+
+#### Why Does Listing Matter?
+
+* Chinese investors tend to trade stocks that are locally listed, by Yale's former student Ning Zhu.
+* Stocks co-move more with co-listed stocks.
+* No information advantage.
+
+### Limited Order Book
+
+#### Limit Order Book
+
+
