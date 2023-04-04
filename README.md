@@ -1242,4 +1242,6 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 * Psychology, neuroscience will play a fundamental role.
 * Leads ultimately to more satisfying lives.
 
+### Critics of Modern Finance
+
 
