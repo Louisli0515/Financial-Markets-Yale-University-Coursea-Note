@@ -1226,3 +1226,20 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 
 * Normal people like to accumulate, a sort of instinct.
 * In extreme form, it is a mental illness, "compulsive hoarding".
+
+### Alternative Forms
+
+#### Benefit Corporation
+
+* First such corporation created in Maryland, 2010.
+* Company charter must state a social or environmental purpose, and is required to pursue that as well as profit.
+* Halfway between for-profit and non-profit.
+* ExampleL Grower's Secret and NPK balance of planet.
+
+#### The Future for Philanthropy
+
+* As years go by, new financial forms will be developed.
+* Psychology, neuroscience will play a fundamental role.
+* Leads ultimately to more satisfying lives.
+
+
