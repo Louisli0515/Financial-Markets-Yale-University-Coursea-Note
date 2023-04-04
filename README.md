@@ -1216,3 +1216,13 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 
 * 42% of all nonprofits have a formal executive bonus system in place (2007-2008) and the percent is increasing.
 * Nonprofits have to compete with for-profits.
+
+#### Why Set Up a Nonprofit?
+
+* It may not be much different to you than setting up a for profit, and it gives you the moral high ground.
+* Example: You decide that your town needs a hospital. You create a nonprofit hospital. You go to the biggest church or temple in town, ask to use their name and help.
+
+#### Human Impulse to Hoard
+
+* Normal people like to accumulate, a sort of instinct.
+* In extreme form, it is a mental illness, "compulsive hoarding".
