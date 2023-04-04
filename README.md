@@ -1203,3 +1203,16 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 
 * Created in 1939 Amendments to the Social Security Act.
 * Government life insurance.
+
+## Module 7
+
+### Nonprofits
+
+#### Nonprofit organisations
+
+* In 2013, there were 1.41 million nonprofits in the U.S., their revenues amounting to 5.4% of U.S. GDP.
+
+#### Nonprofits Give Bonuses Just as For-Profits
+
+* 42% of all nonprofits have a formal executive bonus system in place (2007-2008) and the percent is increasing.
+* Nonprofits have to compete with for-profits.
