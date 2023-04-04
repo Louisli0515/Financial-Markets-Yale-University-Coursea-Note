@@ -1244,4 +1244,76 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 
 ### Critics of Modern Finance
 
+<img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/229752461-b6f8cb7d-999c-49bd-9eb1-fa1a6470931f.jpg>
+
+### Democratisation of Finance
+
+#### Examples of the Wonders of Finance: Conservation Foundations
+
+* Nature Conservancy
+* World Wildlife Fund
+* Wildlife Conservation Society
+
+### Finance and War
+
+#### There will be Wars & Chaos
+
+* There is no world government, never will be.
+* Organisations like the United Nations, G20 nations, are tenuous.
+* Try not to think of finance as something run by the government.
+
+#### Of Course, Wars can Disrupt Finance
+
+* After World War II, US government forced the zaibastu (the big four are the Big Four zaibatsu of Mitsubishi, Mitsui, Sumitomo and Yasuda) to sell their assets & invest in nominal yen bonds.
+
+### Finance and Population Growth
+
+* In the next 25 years, it is impossible to suppose that the produce could be quadrupled. 
+
+### The Importane of Financial Theory
+
+#### Mathematical Finance
+
+* The world will never be the same again beacuse of the development of mathematical finance.
+* The theory of allocation of scarce resources was not understood by most people ine arly 20th century.
+
+#### Behavioral Finance
+
+* Behavioral finance is the salvation of mathematical finance, for it explains the frictions that inhibit it.
+* Hardcore mathematical finance people have a tendency to be irrelevant.
+
+### Wealth and Poverty
+
+#### Wealth and Poverty
+
+* Animosities due to disparities of wealth are fundamental to most revolutions of our time.
+* Part of the problem has to do with failure to democratise finance.
+* Popular theory: inequality is because of political power, evil people.
+* Alternative theory: inequality is due to unmanaged risks.
+
+### Your Career and Finance
+
+#### Desire for Perfect Career
+
+* Give away 90% of my income now, when young, won't make me very helpful. Must lauch out on a career where I make money first.
+* Bill Gates, Gates Foundation, the largest transparently operated charitable foundation, endowment of $38.7 billion from Gates and Buffett.
+
+#### The Next Few Decades
+
+* The most exciting prospect: the developing world catches up.
+* Financial Markets will be everywhere, dominating people's lives.
+* Financial booms and crashes will be even bigger than before.
+
+#### Risk and Chance over Careers
+
+* Century-long personal outlook.
+* Reflections on upheavals in last century.
+* Stock market risk is compounded by individual career risk.
+* Illusion of invulnerability.
+
+#### Human Capital, Positioning, and Meaning
+
+* Maintain an orientation towards history in the making, rather than to one's own point in the life cycle.
+* Maintain human capital, strategically oriented.
+* Matintain humanity in an unforgiving business world.
 
